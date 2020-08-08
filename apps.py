@@ -1,2 +1,0 @@
-import openpyxl as xl
-
